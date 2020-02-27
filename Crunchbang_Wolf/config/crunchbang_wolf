@@ -116,7 +116,6 @@ ${font Pie charts for maps:Bold:size=14}m${font} ${voffset -5}Timshift:
 ${voffset 4}${fs_used /mnt/tsb}/${fs_size /mnt/tsb} ${alignr}${fs_bar 8,60 /mnt/tsb}
 
 ${font Zekton:Bold:size=11}NETWORK ${hr 2}
-#Aquí tengo que aclarar algo mis interfaces de red son 
 #Wired = enp3s0f1 and WiFi = wlo1
 ${if_existing /proc/net/route enp3s0f1}
 ${voffset -15}${alignc 0}${font Capture it:size=12}W i r e  d
