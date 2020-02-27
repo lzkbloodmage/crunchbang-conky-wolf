@@ -1,4 +1,13 @@
-Things to change in config file:
+Crunchbang Conky - Wolf Edition (v1)
+
+===== INSTALLATION =====
+- Extract/copy `crunchbang_wolf` folder to `/home/$USER/.conky/`
+- Install all the fonts in the `fonts` folder
+- Read the section below and make any necessary changes accordingly based on your system hardware/OS 
+- Apply this conky by selecting it in conky manager
+
+
+===== CHANGES REQUIRED BY USER =====
 - Line 90: Distro logo
 - Line 94: PC Brand
 - Line 95: PC Model

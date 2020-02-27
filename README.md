@@ -11,6 +11,7 @@ A modified conky config, based on [Crunchbang Conky - simple edition by willydle
 ## Installation Instructions:
 - Download release file or clone repo `git clone https://github.com/lzkbloodmage/crunchbang-conky-wolf.git`.
 - Extract/copy `crunchbang_wolf` folder to `/home/$USER/.conky/`
+- Install all the fonts in the `fonts` folder
 - Read the `UserChanges.txt` file and make any necessary changes accordingly based on your system hardware/OS 
 - Apply this conky by selecting it in conky manager
 
